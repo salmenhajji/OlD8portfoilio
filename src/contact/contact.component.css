@@ -1,0 +1,30 @@
+.p-tag {
+    background: #acacac;
+    color: #fff;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.row p {
+    font-weight: 700px;
+    color: black;
+}
+
+.card-body ul {
+    padding-left: 20px;
+}
+
+li {
+    padding-top: 5px;
+}
+
+.p-des {
+    color: #acacac;
+    width: 80%;
+}
+
+.p-rgt-sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
